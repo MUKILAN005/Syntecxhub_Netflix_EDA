@@ -1,0 +1,7 @@
+Netflix Medical Dataset - EDA summary
+
+1. Movies are more common than TV Shows in the Dataset.
+2. Netflix content increased sigbificantly in recent years.
+3. The analysis identifies the Top 10 most common genres.
+4. The analysis dentifies the Top 10 release years with the highest numbers of titles.
+5. Movies runtimes vary across a wide range TV Shows are represented by the number of seasons.
